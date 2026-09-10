@@ -5,3 +5,11 @@ Thumbs.bd
 .env
 /tmp
 ReadmeInstall.md
+# Dependencias de Node (Obligatorio)
+node_modules/
+
+# Variables de entorno y secretos (Obligatorio)
+.env.*
+
+# Logs de errores (Obligatorio)
+npm-debug.log*
